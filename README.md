@@ -19,7 +19,7 @@
 
 ### 1. 프로젝트 소개
 
-> Windows에서 WSL Ubuntu를 활용해 Linux 개발 환경을 구성하고, Docker 기반 NGINX 웹 서버와 Git/GitHub를 다루는 실습입니다. 파일 권한, 포트 매핑, 바인드 마운트와 볼륨 영속성을 학습하고 관련 기록을 정리합니다.
+> Windows에서 WSL Ubuntu를 활용해 Linux 개발 환경을 구성하고, Docker 기반 NGINX 웹 서버와 Git/GitHub를 다루는 실습입니다. 파일 권한, 포트 매핑, 바인드 마운트와 볼륨 영속성을 학습하고 관련 기록을 정리했습니다.
 
 주요 실습 내용
 
